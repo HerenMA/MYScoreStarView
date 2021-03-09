@@ -1,0 +1,6 @@
+framework module MYScoreStarView {
+  umbrella header "MYScoreStarView.h"
+
+  export *
+  module * { export * }
+}
